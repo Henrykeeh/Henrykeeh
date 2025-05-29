@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrykeeh! 👋
+# Olá, eu sou o Henrique! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista (UNIP) e apaixonado por tecnologia desde pequeno. Minha jornada começou com jogos de RPG, especialmente quando descobri o RPG Maker — uma ferramenta que despertou minha curiosidade sobre o que acontece por trás das aplicações e me inspirou a seguir o caminho da programação.
 
