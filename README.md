@@ -12,7 +12,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Pa
 
 ## 🚀 Projeto em destaque
 
-- [**Projeto Blog Pessoal**](https://github.com/Henrykeeh/Projeto-Blog-Pessoal): Meu repositório favorito, onde aplico meus conhecimentos em Java e Spring para criar uma plataforma de blog pessoal.
+- [**Projeto Blog Pessoal**](https://github.com/Henrykeeh/Projeto-Blog-Pessoal): Meu repositório favorito, onde aplico meus conhecimentos em Java e Spring para criar o back-end de uma plataforma de blog pessoal.
+
+- [**Projeto Blog Pessoal - Front**](https://github.com/Henrykeeh/Projeto-Blog-Pessoal-Front): Aplico minhas habilidades em front-end para desenvolver a parte que irá consumir o back-end do Blog Pessoal.
 
 ## 🌐 Onde me encontrar
 
